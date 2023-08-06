@@ -3,7 +3,7 @@ import 'package:task/View/job_list.dart';
 import 'package:task/View/profile.dart';
 import 'package:task/View/search.dart';
 
-import '../Utilities/side_bar.dart';
+import '../Widgets/side_bar.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});

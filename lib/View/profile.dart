@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:task/Utilities/side_bar.dart';
+import 'package:task/Widgets/side_bar.dart';
 
 class Profile extends StatelessWidget {
   const Profile({super.key});

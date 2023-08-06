@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../Utilities/job_card.dart';
+import '../Widgets/job_card.dart';
 
 class JobsList extends StatelessWidget {
   const JobsList({super.key});
